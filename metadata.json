@@ -1,0 +1,6 @@
+{
+  "name": "CodeTerminal",
+  "description": "A powerful mobile IDE, Termux-like terminal, and APK creator for multi-language coding and Android app compilation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
